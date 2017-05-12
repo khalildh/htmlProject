@@ -1,0 +1,115 @@
+/*Add CSS styling below*/
+
+
+div {
+	width: 800px;
+	background-color: #006363;
+	font-family: Verdana;
+}
+
+
+nav {
+	height: 260px;
+	width: 150px;
+	float: left;
+	background-color: #FFD073;
+	text-align: center;
+	border: solid black  1px;
+}
+
+ul {
+	padding: 0px;
+}
+
+
+
+a {
+	color: #A64B00;
+	font-weight: bold;
+
+}
+
+li {
+	padding: 5px 0px;
+}
+
+
+
+aside {
+	float: right;
+	height: 260px;
+	width: 200px;
+	border: solid black  1px;
+	background-color: #FFD073;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
+
+.imageCaption {
+	width: 200;
+	margin: 0px;
+	margin-top: 10px;
+	padding: 0px;
+	color: #A64B00;
+	font-weight: bold;
+}
+
+
+header {
+	height: 100px;
+	color: white;
+	width: 800px;
+	background-color: #009999;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 0px;
+}
+
+h1 {
+	margin-top: 0px;
+	font-size: 32px;
+	color: white;
+}
+
+article {
+	font-size: 14px;
+}
+
+
+
+h2 {
+	color: #FFAA00;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 120px 0px 15px 170px;
+}
+
+li {
+	list-style-type: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+footer {
+	text-align: center;
+	color: #A64B00;
+	height: 60px;
+	background-color: #FFD073;
+	font-size: 12px;
+	padding-top: 5px;
+}
+
+p {
+	margin-left: 170px;
+	color: white;
+	padding-right: 220px;
+}
+
+.Nope {
+	margin-left: 15px;
+	padding-right: 5px;
+}

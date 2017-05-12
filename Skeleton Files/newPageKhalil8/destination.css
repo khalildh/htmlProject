@@ -1,0 +1,208 @@
+/*Add CSS styling below*/
+
+article, aside, figcaption, figure, footer, header, hgroup, nav, section {
+	display: block;
+
+}
+
+
+
+div {
+	width: 800px;
+	background-color: #006363;
+	font-family: Verdana;
+}
+
+
+nav {
+	height: 260px;
+	width: 150px;
+	float: left;
+	background-color: #FFD073;
+	text-align: center;
+	border: solid black  1px;
+	margin-right: 15px;
+	margin-bottom: 60px;
+}
+
+ul {
+	padding: 0px;
+}
+
+
+
+a {
+	color: #A64B00;
+	font-weight: bold;
+
+}
+
+li {
+	padding: 5px 0px;
+}
+
+
+
+figure {
+	float: right;
+	width: 200px;
+	background-color: #EA77AF;
+	text-align: center;
+	margin: 0px 0px 0px 30px;
+	color: black;
+	font-weight: bold;
+	border: 1px solid black;
+}
+
+
+figure#washmonaside {
+	width: 305px;
+	height: 95px;
+	margin-left: 22px;
+}
+
+
+#fig2 {
+	float: none;
+	width: 100%;
+	margin: 0px;
+	color: #FFAA00;
+	font-size: 14px;
+	margin-bottom: 29px;
+	margin-top: 25px;
+}
+
+
+
+#boldp {
+	font-weight: bold;
+}
+
+
+header {
+	height: 100px;
+	color: white;
+	width: 800px;
+	background-color: #009999;
+	float: left;
+	text-align: center;
+	padding-top: 0px;
+}
+
+h1 {
+	margin-top: 0px;
+	margin-bottom: -10px;
+	font-size: 32px;
+	color: white;
+}
+
+article {
+	font-size: 14px;
+    margin-right: 40px;
+}
+
+audio {
+    margin-top: 15px;
+}
+
+#h2h2 {
+	font-size: 20px;
+}
+
+
+.h2 {
+	color: #FFAA00;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 120px 0px 0px 170px;
+	margin-left: 100px;
+}
+
+li {
+	list-style-type: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+footer {
+	text-align: center;
+	color: #A64B00;
+	height: 60px;
+	background-color: #FFD073;
+	font-size: 12px;
+	padding-top: 5px;
+}
+
+p {
+	margin-left: 5px;
+	color: white;
+	padding-right: 220px;
+	word-wrap: normal;
+    font-size: 14px;
+}
+
+.Nope {
+	margin-left: 15px;
+	padding-right: 5px;
+}
+
+.pspecial {
+	padding: 0px;
+	margin-top: 32px;
+    margin-bottom: 0px;
+}
+
+.spans {
+	padding-top: 20px;
+}
+.moveRight {
+	padding-left: 10px;
+}
+
+.moveDown {
+	padding-bottom: 10px;
+}
+
+
+#form0 {
+	width: 615px;
+	height: 280px;
+	background-color: #FFE09F;
+	margin-left: 160px;
+	margin-bottom: 20px;
+	
+}
+
+#form1 {
+	float: left;
+	margin-top: 5px;
+	margin-left: 12px;
+}
+
+#form2 {
+	float: left;
+	margin-top: 5px;
+	margin-left: 40px;
+}
+
+input {
+	width: 240px;
+}
+
+
+input[name="submit"] {
+	width: auto;
+	color: white;
+	clear: both;
+	margin-top: 70px;
+	margin-right: 40px;
+	background-color: #006363;
+}
+
+input[name="Name"] {
+
+}
+
+.moveUp {
+    margin-top: 10px;
+}
